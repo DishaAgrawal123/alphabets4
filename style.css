@@ -1,0 +1,67 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,td{
+    height:70px;
+    text-align: center;
+    vertical-align: middle;
+    border-bottom: blue;
+    padding: 15px;
+
+
+
+
+}
+.voilet:hover{
+    background-color: #D62AD0;
+    font-size: 70px;
+}
+.indigo:hover{
+    background-color:indigo;
+    font-size: 70px;
+}
+.blue:hover{
+    background-color: blue;
+    font-size: 70px;
+}
+.green:hover{
+    background-color: rgb(38, 241, 38);
+    font-size: 70px;
+}
+.yellow:hover{
+    background-color: yellow;
+    font-size: 70px;
+}
+.orange:hover{
+    background-color: orange;
+    font-size: 70px;
+}
+.red:hover{
+    background-color: red;
+    font-size: 70px;
+}
+.a:hover{
+    text-align:left ;
+}
+.apple:hover{
+    text-align: right;
+}
+h1{
+    text-align: center;
+    background-color: #FF7600;
+}
+h2{
+    text-align: center;
+    color: #04009A;
+    
+}
+h3{
+    text-align: center;
+    background-color: #78DEC7;
+}
+
+
+
+
+
